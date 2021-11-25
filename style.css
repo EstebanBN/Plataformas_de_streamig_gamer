@@ -234,7 +234,7 @@ footer p{
 
 /* REGLA PARA EL FORMATO responsive*/
 
-@media (min-width: 320px) and (max-width: 768px) {
+@media (min-width: 320px) and (max-width: 920px) {
 
 /* REGLA PARA EL FORMATO DEL CONTENEDOR PRINCIPAL  */
 .container{
